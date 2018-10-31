@@ -9,7 +9,7 @@ $ alert Hello
 ## Install
 ```console
 $ npm install -g alert-cli
-$ alert Hello!
+$ alert Hello
 ```
 
 ## Screenshot
