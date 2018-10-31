@@ -2,7 +2,9 @@
   "name": "alert-cli",
   "version": "0.0.1",
   "description": "alert in cli",
-  "bin": "cli.js",
+  "bin": {
+    "alert": "cli.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
