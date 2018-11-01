@@ -6,6 +6,12 @@ alert in cli
 $ alert Hello
 ```
 
+## Use case
+Notify you when `npm build` is done
+```console
+$ npm run build && alert done
+```
+
 ## Install
 ```console
 $ npm install -g alert-cli
