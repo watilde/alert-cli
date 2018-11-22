@@ -20,3 +20,6 @@ $ alert Hello
 
 ## Screenshot
 ![img](./screenshot.jpg)
+
+## Note
+Windows is currently not supported yet.
